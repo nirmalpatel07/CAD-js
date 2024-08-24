@@ -50,7 +50,7 @@ console.log((addTwo(3,4)));
                 //or
 
 const addTwo1 = (num1, num2) => num1+num2
-console.log((addTwo(30,4)));
+console.log((addTwo(30,40)));
 
                 //or
 
