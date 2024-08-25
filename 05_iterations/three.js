@@ -9,7 +9,7 @@ map.set('IN', "India")          //won't allow same value more than one time
 
 //          Destructured     --      if you print only key it will print it as array
 //           |     |
-for (const [key, value] of map) {
+for (const [key, value] of map) {       // this method will not work on Objects as it works here
    // console.log(key, " : ",value);
     
 }
